@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋 I'm [Your Name]<br>🎯 A passionate 22-year-old developer from Argentina, always eager to learn and make an impact through code. Currently pursuing a Technicature in Software Development, I’m diving deep into the world of web development, with a focus on frontend magic. 🚀<br><br>💻 I specialize in React, where I craft sleek, modern user interfaces, but I’m no stranger to backend development and databases. Whether it's building intuitive user experiences or managing the data behind them, I'm all in!<br><br>💡 I'm a firm believer in agile methodologies and love working in dynamic, collaborative environments. Plus, I have a dash of design skills to bring that extra polish to every project I touch. ✨<br><br>👀 I'm always looking for exciting opportunities to grow and contribute to meaningful projects. Let’s connect and build something awesome together!
 
 
